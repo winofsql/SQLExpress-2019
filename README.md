@@ -36,3 +36,6 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/139814509-22ef089d-fd8e-4987-9d3e-77e850c89301.png)
 
+```sql
+create database lightbox
+```
